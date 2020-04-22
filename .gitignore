@@ -1,0 +1,7 @@
+/.state/
+/.idea/
+/.terraform/
+/docker/postgres/config/postgres_server.pem
+/docker/postgres/config/postgres_server-key.pem
+/docker/postgres/data/
+/docker/vault/data/
